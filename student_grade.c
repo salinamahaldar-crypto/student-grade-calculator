@@ -2,6 +2,7 @@
 int main()
 {
     float marks;
+     printf("Welcome to Student Grade Calculator!!!\n ");
     printf("Enter your marks: ");
     scanf("%f", &marks);
     if (marks >= 90)
